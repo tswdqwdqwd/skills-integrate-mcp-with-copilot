@@ -1,50 +1,35 @@
-# Integrate MCP with Copilot
+<div align="center">
 
-<img src="https://octodex.github.com/images/Professortocat_v2.png" align="right" height="200px" />
+# 🎉 Congratulations tswdqwdqwd! 🎉
 
-Hey tswdqwdqwd!
+<img src="https://octodex.github.com/images/welcometocat.png" height="200px" />
 
-Mona here. I'm done preparing your exercise. Hope you enjoy! 💚
+### 🌟 You've successfully completed the exercise! 🌟
 
-Remember, it's self-paced so feel free to take a break! ☕️
+## 🚀 Share Your Success!
 
-## Overview
+**Show off your new skills and inspire others!**
 
-This project demonstrates how to integrate Model Context Protocol (MCP) with GitHub Copilot. The Mergington High School Activities API has been extended with an MCP server that allows Claude/Copilot to interact with school activities programmatically.
+<a href="https://twitter.com/intent/tweet?text=I%20just%20completed%20the%20%22Integrate%20MCP%20with%20GitHub%20Copilot%22%20GitHub%20Skills%20hands-on%20exercise!%20%F0%9F%8E%89%0A%0Ahttps%3A%2F%2Fgithub.com%2Ftswdqwdqwd%2Fskills-integrate-mcp-with-copilot%0A%0A%23GitHubSkills%20%23OpenSource%20%23GitHubLearn" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/Share%20on%20X-1da1f2?style=for-the-badge&logo=x&logoColor=white" alt="Share on X" />
+</a>
+<a href="https://bsky.app/intent/compose?text=I%20just%20completed%20the%20%22Integrate%20MCP%20with%20GitHub%20Copilot%22%20GitHub%20Skills%20hands-on%20exercise!%20%F0%9F%8E%89%0A%0Ahttps%3A%2F%2Fgithub.com%2Ftswdqwdqwd%2Fskills-integrate-mcp-with-copilot%0A%0A%23GitHubSkills%20%23OpenSource%20%23GitHubLearn" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/Share%20on%20Bluesky-0085ff?style=for-the-badge&logo=bluesky&logoColor=white" alt="Share on Bluesky" />
+</a>
+<a href="https://www.linkedin.com/feed/?shareActive=true&text=I%20just%20completed%20the%20%22Integrate%20MCP%20with%20GitHub%20Copilot%22%20GitHub%20Skills%20hands-on%20exercise!%20%F0%9F%8E%89%0A%0Ahttps%3A%2F%2Fgithub.com%2Ftswdqwdqwd%2Fskills-integrate-mcp-with-copilot%0A%0A%23GitHubSkills%20%23OpenSource%20%23GitHubLearn" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/Share%20on%20LinkedIn-0077b5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Share on LinkedIn" />
+</a>
 
-## MCP Integration
+### 🎯 What's Next?
 
-### What is MCP?
+**Keep the momentum going!**
 
-Model Context Protocol (MCP) is a standardized protocol that enables LLM applications (like GitHub Copilot) to interact with external tools and data sources through a consistent interface.
+[![](https://img.shields.io/badge/Return%20to%20Exercise-%E2%86%92-1f883d?style=for-the-badge&logo=github&labelColor=197935)](https://github.com/tswdqwdqwd/skills-integrate-mcp-with-copilot/issues/1)
+[![GitHub Skills](https://img.shields.io/badge/Explore%20GitHub%20Skills-000000?style=for-the-badge&logo=github&logoColor=white)](https://learn.github.com/skills)
 
-### How It Works
+*There's no better way to learn than building things!* 🚀
 
-1. **MCP Server** (`src/mcp_server.py`) - Exposes activities API endpoints as tools
-2. **Configuration** (`.mcp.json`) - Defines how Copilot connects to the MCP server
-3. **Tools** - Three tools are available:
-   - `list_activities` - Retrieve all activities
-   - `signup_for_activity` - Register a student for an activity
-   - `unregister_from_activity` - Unregister a student from an activity
-
-### Getting Started with MCP
-
-1. Start the FastAPI server:
-   ```bash
-   cd src
-   python app.py
-   ```
-
-2. Configure your Claude/Copilot environment to use the MCP server defined in `.mcp.json`
-
-3. Ask Copilot questions like:
-   - "What activities are available at Mergington High School?"
-   - "Sign up emma@mergington.edu for Chess Club"
-   - "Which students are registered for Programming Class?"
-
----
-
-[![](https://img.shields.io/badge/Go%20to%20Exercise-%E2%86%92-1f883d?style=for-the-badge&logo=github&labelColor=197935)](https://github.com/tswdqwdqwd/skills-integrate-mcp-with-copilot/issues/1)
+</div>
 
 ---
 
